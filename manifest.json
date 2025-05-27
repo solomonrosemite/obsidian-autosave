@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-autosave",
 	"name": "Autosave",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Regularly, truly, autosaves on change. Causing save listeners to get triggered.",
 	"author": "solomonrosemite",
